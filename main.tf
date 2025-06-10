@@ -98,4 +98,10 @@ name ="sp-rg6"
 location = "west us"
 }
 
+#7
+resource "azurerm_resource_group" "rg7" {
+name ="sp-rg7"
+location = "west us"
+}
+
 
